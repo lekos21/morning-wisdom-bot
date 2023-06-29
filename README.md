@@ -22,10 +22,10 @@ This project deploys a Google Cloud Function that sends an email each morning at
 6. Save the URL of the deployment
 7. In the "Source code" section, copy-paste both the code of the main.py and requirements.txt file.
 8. Edit the following texts:
-   1. your-api-key (openAI key)
-   2. sender@gmail.com
-   3. your-password
-   4. receiver@gmail.com
+   1. "your-api-key" (openAI key)
+   2. "sender@gmail.com"
+   3. "your-password" (created before)
+   4. "receiver@gmail.com"
 9. Set the Runtime to Python 3.10 (or the latest version available).
 10. In the "Entry point" field, enter hello_http.
 11. Click "Deploy" to deploy the function.
