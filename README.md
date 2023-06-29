@@ -10,7 +10,7 @@ This project deploys a Google Cloud Function that sends an email each morning at
 1. Go to [Google Account main page](https://myaccount.google.com/), scroll down to the 2FA authentication and activate it. 
 2. In the 2FA page scroll down to "App Password" and generate one, you will need it in the "your-password" field later
 
-## Deploying on Cloud
+## Deploying on Google Cloud
 1. Navigate to the Google Cloud Console.
 2. Create a new project.
 3. Enable the Cloud Functions and Cloud Scheduler APIs for your project.
